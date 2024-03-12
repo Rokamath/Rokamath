@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rokamath
+- 👀 I’m interested in Cognitive Neuroscience and Memory.
+- 🌱 I’m currently learning 🐍 Python & 🟧 Matlab and their applications in EEG data analysis.
+- 💞️ I’m looking to collaborate on projects involving memory.
