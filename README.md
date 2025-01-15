@@ -3,13 +3,10 @@ and Alzheimer's (AD) 🧠 alongside their impact on sleep 💤.
 
 🤖Learning AI for potential biomarkers 🟠 and ML for ⚠️📉 Risk Prediction/Survival⚕️
 
-Languages   Programs     Packages
-R           RStudio      Numpy
-Python      PsyToolkit   Pandas
-MATLAB                   SciKit
-HTML
-JS
-CSS
+🌐Languages  R Python MATLAB HTML JSS CSS
+💻Programs   RStudio PsyToolKit Excel
+📦Packages   Numpy Pandas SciKit
+
 
 🔖In my studies so far, I have seen the mitochondria 🦠come up time and 
 again in relation to energy 🔋 imbalances and inflammation and hope to study this further. 
