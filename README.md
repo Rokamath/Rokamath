@@ -7,6 +7,9 @@ Languages   Programs     Packages
 R           RStudio      Numpy
 Python      PsyToolkit   Pandas
 MATLAB                   SciKit
+HTML
+JS
+CSS
 
 🔖In my studies so far, I have seen the mitochondria 🦠come up time and 
 again in relation to energy 🔋 imbalances and inflammation and hope to study this further. 
