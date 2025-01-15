@@ -1,8 +1,7 @@
 I'm Rohit Kamath, probing the 🔗 between ⏹️ iron, inflammation 🔥
 and Alzheimer's (AD) 🧠 alongside their impact on sleep 💤.
 
-🔴As a MSc Neuroscience student in London 🏢, it is an exciting 
-opportunity to be within the London Neuroscience and Dementia networks.
+🤖Learning AI for potential biomarkers 🟠 and ML for ⚠️📉 Risk Prediction/Survival⚕️
 
 🔖In my studies so far, I have seen the mitochondria 🦠come up time and 
 again in relation to energy 🔋 imbalances and inflammation and hope to study this further. 
@@ -13,4 +12,5 @@ to other aggregations which have been shown to induce 🫧 Lipid dysfunction.
 
 🎙️I host a podcast Unplugging the Brain with 4 other students discussing Neuroscience.
 
-Looking for Research opportunities or chances to interview fellow scientists. Open to chat and interested to talk about anything! 👇
+Looking for Research opportunities or chances to interview fellow scientists. 
+Open to chat and interested to talk about anything! 👇
