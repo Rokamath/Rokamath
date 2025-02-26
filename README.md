@@ -16,6 +16,7 @@ to other aggregations which have been shown to induce 🫧 Lipid dysfunction.
 ❓Could mitochondria 🦠 possibly lay at the center of neurodegenerative diseases like AD?
 
 🎙️I host a podcast Unplugging the Brain with 4 other students discussing Neuroscience.
+https://open.spotify.com/show/73YXZgVPpwAdfsWffXBm9o?si=XO8Qr-P2QWiqE_IuFT_gpQ
 
 Looking for Research opportunities or chances to interview fellow scientists. 
 Open to chat and interested to talk about anything! 👇
