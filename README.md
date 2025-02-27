@@ -20,3 +20,5 @@ https://open.spotify.com/show/73YXZgVPpwAdfsWffXBm9o?si=XO8Qr-P2QWiqE_IuFT_gpQ
 
 Looking for Research opportunities or chances to interview fellow scientists. 
 Open to chat and interested to talk about anything! 👇
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Rokamath)
