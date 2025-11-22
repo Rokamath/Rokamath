@@ -1,4 +1,4 @@
-I'm Rohit Kamath, applying advanced quantitative methods to model complex systems 📊 and derive actionable insights from data—focused on creating solutions for problems that affect your quality of life!
+I'm Rohit Kamath, applying advanced quantitative methods to model complex systems 📊 and derive actionable insights from data—focused on creating solutions for problems that you improve your quality of life!
 
 🌐Languages  R Python MATLAB HTML JSS CSS
 💻Programs   RStudio PsyToolKit Excel
